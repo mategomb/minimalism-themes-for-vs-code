@@ -1,0 +1,26 @@
+{
+	"name": "minimalism",
+	"displayName": "minimalism",
+	"description": "Minimalist themes by Máté.",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "minimalism black",
+				"uiTheme": "vs",
+				"path": "./themes/minimalism-black-color-theme.json"
+			},
+			{
+				"label": "minimalism teal",
+				"uiTheme": "vs",
+				"path": "./themes/minimalism-teal-color-theme.json"
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name": "minimalism teal",
+	"type": "light",
+	"colors": {
+		"editor.background": "#fff",
+		"editor.foreground": "#088"
+	},
+	"tokenColors": [
+		{
+			"name": "comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#aaa"
+			}
+		},
+		{
+			"name": "string",
+			"scope": "string",
+			"settings": {
+				"foreground": "#088"
+			}
+		}
+	]
+}
