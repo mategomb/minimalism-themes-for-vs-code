@@ -1,16 +1,10 @@
-# README
+# Minimalist, no-syntax-highlight themes for Visual Studio Code.
 
-## This is the README for your extension "minimalism"
+## Install the extension
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+- To start using the extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 
--  Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
--  Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
--  Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Get up and running straight away
 
-### For more information
-
--  [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
--  [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+- Open `File > Preferences > Color Theme` and pick one the color themes.
+- Open a file
