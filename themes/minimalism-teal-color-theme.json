@@ -4,7 +4,8 @@
 	"colors": {
 		"editor.background": "#fff",
 		"editor.foreground": "#088",
-		"editorLineNumber.foreground": "#088",
+		"editorLineNumber.foreground": "#000",
+		"editorLineNumber.activeForeground": "#088",
 	},
 	"tokenColors": [
 		{
