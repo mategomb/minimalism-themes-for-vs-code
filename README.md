@@ -1,4 +1,4 @@
-# Minimalist, no-syntax-highlight themes for Visual Studio Code.
+# Minimalist, no-syntax-highlight themes for Visual Studio Code
 
 ## Install the extension
 
