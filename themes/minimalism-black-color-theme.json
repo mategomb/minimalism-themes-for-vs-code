@@ -12,13 +12,6 @@
 			"settings": {
 				"foreground": "#aaa"
 			}
-		},
-		{
-			"name": "string",
-			"scope": "string",
-			"settings": {
-				"foreground": "#000"
-			}
 		}
 	]
 }
