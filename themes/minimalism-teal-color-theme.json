@@ -3,7 +3,8 @@
 	"type": "light",
 	"colors": {
 		"editor.background": "#fff",
-		"editor.foreground": "#088"
+		"editor.foreground": "#088",
+		"editorLineNumber.foreground": "#088",
 	},
 	"tokenColors": [
 		{
@@ -11,13 +12,6 @@
 			"scope": "comment",
 			"settings": {
 				"foreground": "#aaa"
-			}
-		},
-		{
-			"name": "string",
-			"scope": "string",
-			"settings": {
-				"foreground": "#088"
 			}
 		}
 	]
