@@ -1,7 +1,7 @@
 {
 	"name": "minimalism-themes",
-	"displayName": "Minimalism Themes",
-	"description": "Minimalist themes by Máté.",
+	"displayName": "minimalism themes",
+	"description": "minimalist themes by máté.",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.60.0"
