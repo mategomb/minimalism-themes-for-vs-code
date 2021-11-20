@@ -1,9 +1,11 @@
 {
-	"name": "minimalism black",
+	"name": "Minimalism Light Teal",
 	"type": "light",
 	"colors": {
 		"editor.background": "#fff",
-		"editor.foreground": "#000"
+		"editor.foreground": "#088",
+		"editorLineNumber.foreground": "#000",
+		"editorLineNumber.activeForeground": "#088",
 	},
 	"tokenColors": [
 		{

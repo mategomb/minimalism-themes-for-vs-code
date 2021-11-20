@@ -1,0 +1,19 @@
+{
+	"name": "Minimalism Dark Orange",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#222222",
+		"editor.foreground": "#F28C28",
+		"editorLineNumber.foreground": "#888888",
+		"editorLineNumber.activeForeground": "#F28C28"
+	},
+	"tokenColors": [
+		{
+			"name": "comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#888888"
+			}
+		}
+	]
+}
