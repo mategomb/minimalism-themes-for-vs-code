@@ -12,27 +12,27 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Minimalism Light Black",
+				"label": "Minimalism Light (Black)",
 				"uiTheme": "vs",
 				"path": "./themes/minimalism-light-black-color-theme.json"
 			},
 			{
-				"label": "Minimalism Light Gray",
+				"label": "Minimalism Light (Gray)",
 				"uiTheme": "vs",
 				"path": "./themes/minimalism-light-gray-color-theme.json"
 			},
 			{
-				"label": "Minimalism Light Teal",
+				"label": "Minimalism Light (Teal)",
 				"uiTheme": "vs",
 				"path": "./themes/minimalism-light-teal-color-theme.json"
 			},
 			{
-				"label": "Minimalism Dark Teal",
+				"label": "Minimalism Dark (Teal)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/minimalism-dark-teal-color-theme.json"
 			},
 			{
-				"label": "Minimalism Dark Orange",
+				"label": "Minimalism Dark (Orange)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/minimalism-dark-orange-color-theme.json"
 			}
