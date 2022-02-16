@@ -17,6 +17,11 @@
 				"path": "./themes/minimalism-light-black-color-theme.json"
 			},
 			{
+				"label": "Minimalism Light Gray",
+				"uiTheme": "vs",
+				"path": "./themes/minimalism-light-gray-color-theme.json"
+			},
+			{
 				"label": "Minimalism Light Teal",
 				"uiTheme": "vs",
 				"path": "./themes/minimalism-light-teal-color-theme.json"

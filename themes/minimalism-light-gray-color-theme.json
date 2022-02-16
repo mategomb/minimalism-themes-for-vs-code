@@ -1,0 +1,8 @@
+{
+	"name": "Minimalism Light Gray",
+	"type": "light",
+	"colors": {
+		"editor.background": "#fff",
+		"editor.foreground": "#555"
+	}
+}
