@@ -27,6 +27,11 @@
 				"path": "./themes/minimalism-light-teal-color-theme.json"
 			},
 			{
+				"label": "Minimalism Dark (Gray)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/minimalism-dark-gray-color-theme.json"
+			},
+			{
 				"label": "Minimalism Dark (Teal)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/minimalism-dark-teal-color-theme.json"
@@ -35,6 +40,11 @@
 				"label": "Minimalism Dark (Orange)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/minimalism-dark-orange-color-theme.json"
+			},
+			{
+				"label": "Minimalism Dark (White)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/minimalism-dark-white-color-theme.json"
 			}
 		]
 	}
