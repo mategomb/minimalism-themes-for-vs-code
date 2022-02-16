@@ -5,15 +5,6 @@
 		"editor.background": "#fff",
 		"editor.foreground": "#088",
 		"editorLineNumber.foreground": "#000",
-		"editorLineNumber.activeForeground": "#088",
-	},
-	"tokenColors": [
-		{
-			"name": "comment",
-			"scope": "comment",
-			"settings": {
-				"foreground": "#aaa"
-			}
-		}
-	]
+		"editorLineNumber.activeForeground": "#088"
+	}
 }

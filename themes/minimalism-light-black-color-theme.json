@@ -4,14 +4,5 @@
 	"colors": {
 		"editor.background": "#fff",
 		"editor.foreground": "#000"
-	},
-	"tokenColors": [
-		{
-			"name": "comment",
-			"scope": "comment",
-			"settings": {
-				"foreground": "#aaa"
-			}
-		}
-	]
+	}
 }
