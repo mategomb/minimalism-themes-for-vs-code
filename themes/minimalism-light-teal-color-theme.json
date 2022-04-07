@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#fff",
 		"editor.foreground": "#088",
-		"editorLineNumber.foreground": "#000",
+		"editorLineNumber.foreground": "#888",
 		"editorLineNumber.activeForeground": "#088"
 	}
 }
