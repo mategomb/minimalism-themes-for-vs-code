@@ -3,8 +3,6 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#222",
-		"editor.foreground": "#fff",
-		"editorLineNumber.foreground": "#888",
-		"editorLineNumber.activeForeground": "#fff"
+		"editor.foreground": "#fff"
 	}
 }
