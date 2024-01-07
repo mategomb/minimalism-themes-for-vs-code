@@ -1,11 +1,11 @@
 {
 	"name": "minimalism-themes",
-	"displayName": "Minimalism Themes",
-	"description": "Minimalist Themes by Máté.",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
+	"displayName": "Minimalism Themes",
+	"description": "Minimalist themes",
 	"categories": [
 		"Themes"
 	],
@@ -22,11 +22,6 @@
 				"path": "./themes/minimalism-light-gray-color-theme.json"
 			},
 			{
-				"label": "Minimalism Light (Teal)",
-				"uiTheme": "vs",
-				"path": "./themes/minimalism-light-teal-color-theme.json"
-			},
-			{
 				"label": "Minimalism Dark (Gray)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/minimalism-dark-gray-color-theme.json"
@@ -40,11 +35,6 @@
 				"label": "Minimalism Dark (Orange)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/minimalism-dark-orange-color-theme.json"
-			},
-			{
-				"label": "Minimalism Dark (White)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/minimalism-dark-white-color-theme.json"
 			}
 		]
 	}

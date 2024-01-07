@@ -1,8 +1,0 @@
-{
-	"name": "Minimalism Dark (White)",
-	"type": "dark",
-	"colors": {
-		"editor.background": "#222",
-		"editor.foreground": "#fff"
-	}
-}

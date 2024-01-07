@@ -3,6 +3,6 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#222",
-		"editor.foreground": "#088"
+		"editor.foreground": "#0aa"
 	}
 }
